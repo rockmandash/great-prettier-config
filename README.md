@@ -1,17 +1,17 @@
-# `@rockmandash/prettier-config`
+# `great-prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> Great [Prettier](https://prettier.io) config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @rockmandash/prettier-config
+$ yarn add --dev great-prettier-config
 ```
 
 ```bash
-$ npm install -D @rockmandash/prettier-config
+$ npm install -D great-prettier-config
 ```
 
 **Edit `package.json`**:
@@ -19,6 +19,6 @@ $ npm install -D @rockmandash/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@rockmandash/prettier-config"
+  "prettier": "great-prettier-config"
 }
 ```
