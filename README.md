@@ -16,7 +16,7 @@ $ npm install -D @rockmandash/prettier-config
 
 **Edit `package.json`**:
 
-```json
+```jsonc
 {
   // ...
   "prettier": "@rockmandash/prettier-config"
